@@ -1,0 +1,12 @@
+# Requriements
+# Database Designs
+# Implementation
+# Testing
+# Deployment
+
+# Database (Todolist, Note, Contact, quiz)
+Todolist
+- todolist_id
+- name        [String]
+- description [String]
+- status      [Boolean]
